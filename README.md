@@ -9,7 +9,7 @@ Install PyTorch (>= 1.1.0)  following the instuctions on the [PyTorch](https://p
 Our code is written in Python3.
 
 ## How to use?
-After installing the requirements, run the following command to reproduce results for DE-SimplE:
+After installing the requirements, run the following command to reproduce results for RoAN-DES:
 ```
 $ python main.py -dropout 0.4 -se_prop 0.36 -beta 0.5 -neg_ratio 5 -model RoAN—DES
 ```
